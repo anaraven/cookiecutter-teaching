@@ -1,11 +1,7 @@
 {
-  "full_name": "Andrés Aravena",
-  "github_username": "anaraven",
-  "project_name": "Compbio Project",
+  "project_name": "Course Title",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
-  "project_short_description": "A project by {{ cookiecutter.full_name }}",
-  "language": ["Python", "R", "Both"],
-  "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3"],
-  "add_dvc": "n",
-  "manuscript_format": ["R Markdown", "LaTeX", "Other"]
+  "short_description": "A course on {{ cookiecutter.project_name }}",
+  "year" : "2023",
+  "prof_name": "Andrés Aravena"
 }
