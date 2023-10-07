@@ -20,9 +20,13 @@ This folder is usually populated by Zotero export.
 
 ## code
 
+Code to produce tables, figures and plots to be used in `docs/images` and `slides/images`.
+
 ## data
 
 ## docs
+
+Documents other than slides. Typically paper
 
 ## eval
 
@@ -31,6 +35,8 @@ Source of evaluations, such as exams, homework, quizzes, etc.
 ## extra
 
 ## old
+
+Archive of previous version of the course. Useful to recycle material.
 
 ## results
 
