@@ -1,6 +1,8 @@
-% {{ cookiecutter.project_name }}
-% Instructor: {{cookiecutter.prof_name}}
-% {{ cookiecutter.year }}
+---
+title: {{ cookiecutter.project_name }}
+author: Instructor: {{cookiecutter.prof_name}}
+date: {{ cookiecutter.year }}
+---
 
 # Course Description
 
