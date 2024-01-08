@@ -1,47 +1,45 @@
----
-title: {{ cookiecutter.project_name }}
-author: Instructor: {{cookiecutter.prof_name}}
-date: {{ cookiecutter.year }}
----
+# Course description
 
-# Course Description
+## Purpose
 
-{{ cookiecutter.short_description }}
+## Course Content (Short Description)
 
-# References
+## Teaching and Learning Methods
 
-# Subdirectories
+Computer based programs and interactive presentations
 
-## ans
+## References
 
-## bib
+## Course Material (Auxiliary Equipment, modal etc.)
 
-Papers and similar material to be used in classes or to prepare them. If it has a DOI, it goes here. Some webpages may also go, as long as the source can be traced. It also includes a bibliography file, in BibLaTeX format.
+## Continuous Improvement in the Context of the courses (questionnaires, interviews, and so on.) Front Shown Measurement and Evaluation Tools and Objectives
 
-This folder is usually populated by Zotero export.
+## Theory Topics
 
-## code
+Week. Weekly Contents Period
 
-Code to produce tables, figures and plots to be used in `docs/images` and `slides/images`.
+## Practice Topics
 
-## data
+## Relation of Proficiency
 
-## docs
+### PY1 To acquire knowledge and skills, supported by text books, practical tools and other recent resources
 
-Documents other than slides. Typically paper
+### PY2 To use the knowledge and skills
 
-## eval
+### PY3 To interpret and evaluate data, to identify and analyze problems, to proose solutions based on research and evidence
 
-Source of evaluations, such as exams, homework, quizzes, etc.
+### PY4 To conduct independet research in the topic
 
-## extra
+### PY5 To take responsibility, as an individual or team member, to solve complicated and unforseen problems
 
-## old
+### PY6 To plan and manage activities related to the professional development of personnels who work under their supervision
 
-Archive of previous version of the course. Useful to recycle material.
+### PY7 To use the time efficiently in conclusion process using analytical thinking skills
 
-## results
+### PY8 To evaluate acquired knowledge and skills in a critical manner, to determine learning requirements, to conduct learning process
 
-## slides
+### PY9 To follow recent knowledge, to communicate with colleagues, to transfer and share proposde solutions
 
-Source of slides used to teach. Usually written in Markdown and published on GitHub pages
+### PY10 To follow knowledge in the field in a foreign language
+
+### PY11 To use information and communication technologies effectively
