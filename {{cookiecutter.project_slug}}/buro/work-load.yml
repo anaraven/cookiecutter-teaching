@@ -1,0 +1,61 @@
+# ECTS Work Load Table
+Work Load:
+  Class Hours:
+    number:
+    duration:
+  Working Hours out of Class:
+    number:
+    duration:
+  Homeworks:
+    number:
+    duration:
+  Presentation:
+    number:
+    duration:
+  # Mid-term Examinations (including time for preparation):
+  Midterm Exam:
+    number:
+    duration:
+  Project:
+    number:
+    duration:
+  Clinical Practice:
+    number:
+    duration:
+  Laboratory:
+    number:
+    duration:
+  Field Work:
+    number:
+    duration:
+  Other Applications:
+    number:
+    duration:
+  # Final Examinations (including preparatory time):
+  Final Exam:
+    number:
+    duration:
+  Quiz:
+    number:
+    duration:
+  Term Paper/Project:
+    number:
+    duration:
+  Portfolio Studies:
+    number:
+    duration:
+  Reports:
+    number:
+    duration:
+  Learning diaries:
+    number:
+    duration:
+  Graduation Thesis/Project:
+    number:
+    duration:
+  Seminar:
+    number:
+    duration:
+  Other:
+    number:
+    duration:

@@ -1,0 +1,25 @@
+Specific Criteria:
+  - key: PY1
+    long: To train students who can use the basic concepts of their profession at undergraduate level in the fields of Life Sciences, Molecular Biology, Genetics and Biotechnology.
+    short: Use basic concepts of their profession at undergraduate level
+    value:
+
+  - key: PY2
+    long: To raise individuals who produce and apply contemporary technologies, who have a critical and questioning mindset.
+    short: Produce and apply contemporary technologies, applying analitical thinking
+    value:
+
+  - key: PY3
+    long: To ensure that graduates assimilate ethical values and have a sense of professional and social responsibility.
+    short: Ethical values and have a sense of professional and social responsibility.
+    value:
+
+  - key: PY4
+    long: To train individuals who can follow the innovations in their field and take part in projects involving different disciplines at national and international level.
+    short: follow the innovations in their field and take part in projects involving different disciplines at national and international level.
+    value:
+
+  - key: PY5
+    long: To train graduates who have the ability to produce solutions to the problems faced by all relevant sectors as a requirement of Molecular Biology and Genetics, Biotechnology, Health, Agriculture, Pharmacy, Food and vocational education.
+    short: Solve problems in Molecular Biology and Genetics, Biotechnology, Health, Agriculture, Pharmacy, Food.
+    value:

@@ -1,0 +1,55 @@
+Evaluation:
+  Homework:
+    number:
+    weight:
+  Presentation:
+    number:
+    weight:
+  # Mid-term Examinations (including time for preparation):
+  Midterm Exam:
+    number:
+    weight:
+  Project:
+    number:
+    weight:
+  Clinical Application:
+    number:
+    weight:
+  Laboratory:
+    number:
+    weight:
+  Field Work:
+    number:
+    weight:
+  Other applications:
+    number:
+    weight:
+  Quiz:
+    number:
+    weight:
+  Term Paper/Project:
+    number:
+    weight:
+  Portfolio Studies:
+    number:
+    weight:
+  Reports:
+    number:
+    weight:
+  Learning diaries:
+    number:
+    weight:
+  Graduation Thesis/Project:
+    number:
+    weight:
+  Seminar:
+    number:
+    weight:
+  # Final Exam (including time for preparation):
+  Final exam:
+    number:
+    weight:
+  # Other (Oral etc.)
+  Other:
+    number:
+    weight:

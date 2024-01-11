@@ -1,0 +1,66 @@
+# Relation of Proficiency, Qualification Program:
+Program competences:
+  - key: PY1
+    long: To learn advanced theoretical and applied knowledge and skills in molecular biology and genetics, supported by text books, practical tools and other scientific resources containing recent findings
+    short: To acquire knowledge and skills, supported by text books, practical tools and other recent resources
+    value:
+
+  - key: PY2
+    long: To be able to use theoretical and practical knowledge and skills in molecular biology and genetics
+    short: To use the knowledge and skills
+    value:
+
+  - key: PY3
+    long: To be able to interpret and evaluate data using knowledge and skills in molecular biology and genetics, to identify and analyze problems, to generate solution proposals based on research and evidence
+    short: To interpret and evaluate data, to identify and analyze problems, to proose solutions based on research and evidence
+    value:
+
+  - key: PY4
+    long: To conduct independent research related to the field
+    short: To conduct independet research in the field
+    value:
+
+  - key: PY5
+    long: To be able to take responsibility as an individual or as a team member to solve complicated and unpredictable problems that are come across in applications
+    short: To take responsibility, as an individual or team member, to solve complicated and unforseen problems
+    value:
+
+  - key: PY6
+    long: To be able to plan and manage activities related to professional development of personnels who work under his/her responsibility
+    short: To plan and manage activities related to the professional development of personnels who work under their supervision
+    value:
+
+  - key: PY7
+    long: To use the time efficiently in conclusion process using analytical thinking skill
+    short: To use the time efficiently in conclusion process using analytical thinking skills
+    value:
+
+  - key: PY8
+    long: To be able to evaluate acquired knowledge and skills in critical manner, to determine learning requirements, to conduct learning process
+    short: To evaluate acquired knowledge and skills in a critical manner, to determine learning requirements, to conduct learning process
+    value:
+
+  - key: PY9
+    long: To follow recent knowledge in molecular biology and genetics, to inform colleagues by communicating, to transfer and share solution proposals
+    short: To follow recent knowledge, to communicate with colleagues, to transfer and share proposde solutions
+    value:
+
+  - key: PY10
+    long: To follow knowledge in the field in a foreign language
+    short: To follow knowledge in the field in a foreign language
+    value:
+
+  - key: PY11
+    long: To be able to use information and communication technologies sufficiently
+    short: To use information and communication technologies effectively
+    value:
+
+  - key: PY12
+    long: To have enough awareness about global and social justice, and environmental values and work safety
+    short: To be aware about social justice, global and environmental values, and work safety
+    value:
+
+  - key: PY13
+    long: To be able to generate hypotheses using existing knowledge and to interpret the results obtained by designing and conducting an experiment for problem solving
+    short: To generate hypotheses, design and conduct experiments, and interpret the results
+    value:
